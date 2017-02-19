@@ -1,6 +1,3 @@
-heroku-buildpack-imagemagick
+For usage see my blog post here:
 
-This is a Heroku buildpack for vendoring the ImageMagick binaries into your project.
-
-Usage:
-
+http://www.jasonfleetwoodboldt.com/writing/2016/05/21/paperclip-rails-and-heroku-how-do-i-make-my-images/
